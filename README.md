@@ -1,4 +1,7 @@
 Software engineering at Google
+
+1-)
+
 What precisely do we mean by software engineering?
 What distinguishes “software engineering” from “programming” or “computer science”?
 And why would Google have a unique perspective to add to the corpus of previous software engineering literature written over the past 50 years?
@@ -14,10 +17,14 @@ Unlike those more established engineering professions, current software engineer
 Aeronautical engineers must follow rigid guidelines and practices, because errors in their calculations can cause real damage; programming, on the whole, has traditionally not followed such rigorous practices.
 But, as software becomes more integrated into our lives, we must adopt and rely on more rigorous engineering methods. We hope this book helps others see a path toward more reliable software practices.
 
-A engenharia de software acaba sendo confundida e resumida a programação, mas a partir do texto é possível notar a diferença entre as areas, sendo a engenharia uma area que 
+A engenharia de software acaba sendo confundida e resumida a programação, mas a partir do texto é possível notar a diferença entre as areas, sendo a engenharia uma area que, por conta da forma que os softwares 
+tem sido usados em alta escalabilidade e cada vez mais integrada no nosso dia a dia, acaba tendo que usar metodos de engenharia mais rigorosos, pois cria algo muito importante, por mais que nao seja tangível.
+
+engenharia de software é programaçao integrada ao tempo, ja que o software muda ao decorrer dos anos, surgem problemas de escala e trade off's
 
 
 
+2-)
 
 Programming Over Time
 
@@ -39,3 +46,5 @@ How an organization will need to adapt as it evolves
  
 Trade-offs and Costs
 How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
+
+
