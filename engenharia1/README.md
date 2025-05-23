@@ -28,6 +28,8 @@ into our lives, we must adopt and rely on more rigorous
 engineering methods. We hope this book helps others see a path 
 toward more reliable software practices.```
 
+Esse trecho mostra a diferença entre programar e fazer engenharia de software. Programar é basicamente escrever o código, enquanto a engenharia de software envolve planejar, aplicar conceitos teóricos e pensar em soluções mais completas, mesmo que a gente não veja essas soluções fisicamente. O autor compara com engenharias como a aeronáutica, onde um erro pode ser muito grave, e diz que na engenharia de software ainda falta esse mesmo nível de cuidado. Como o software está cada vez mais presente no nosso dia a dia, ele defende que é importante usar práticas mais confiáveis e bem definidas
+
 # Exercicio 2
 
 >Programming Over Time
@@ -46,8 +48,18 @@ toward more reliable software practices.```
 >Trade-offs and Costs
 >How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
 
+Engenharia de software é como "programação ao longo do tempo", e não apenas escrever códigos, já que não adianta o código estar funcionando agora, ele tem que continuar fazendo sentido e sendo útil no futuro. Para isso, as empresas de software devem considerar: Time and Change(como o código vai se adaptar com o tempo), Scale and Growth(como o sistema e a equipe crescem juntos) e Trade-offs and Costs(as decisões feitas ao equilibrar prazos, recursos e qualidade)
+
 # Exercicio 3
-Listar e explicar 3 exemplos de tradeoffs
+## Listar e explicar 3 exemplos de tradeoffs
+### Documentar o Código vs. Entregar no Prazo
+Trade-off: Escrever comentários e documentação ajuda na manutenção e facilita para o entendimento, mas consome tempo, que as vezes pode faltar.
+
+### Ficar em Casa no Fim de Semana vs. Sair com os Amigos
+Trade-off: Ficar em casa pode ser mais tranquilo e barato. Sair é divertido, mas envolve gastos e talvez cansaço.
+
+### HD vs SSD
+O HD é uma opção mais econômica quando se trata de custo por gigabyte, sendo indicado para quem precisa guardar muitos dados sem gastar muito. Já o SSD oferece velocidades muito superiores na leitura e gravação de arquivos, proporcionando melhor desempenho, porém com um preço mais elevado por gigabyte.
 
 # Exercicio 4
 
