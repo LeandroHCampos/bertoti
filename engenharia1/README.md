@@ -53,10 +53,10 @@ Engenharia de software é como "programação ao longo do tempo", e não apenas 
 # Exercicio 3
 ## Listar e explicar 3 exemplos de tradeoffs
 ### Documentar o Código vs. Entregar no Prazo
-Trade-off: Escrever comentários e documentação ajuda na manutenção e facilita para o entendimento, mas consome tempo, que as vezes pode faltar.
+Escrever comentários e documentação ajuda na manutenção e facilita para o entendimento, mas consome tempo, que as vezes pode faltar.
 
 ### Ficar em Casa no Fim de Semana vs. Sair com os Amigos
-Trade-off: Ficar em casa pode ser mais tranquilo e barato. Sair é divertido, mas envolve gastos e talvez cansaço.
+Ficar em casa pode ser mais tranquilo e barato. Sair é divertido, mas envolve gastos e talvez cansaço.
 
 ### HD vs SSD
 O HD é uma opção mais econômica quando se trata de custo por gigabyte, sendo indicado para quem precisa guardar muitos dados sem gastar muito. Já o SSD oferece velocidades muito superiores na leitura e gravação de arquivos, proporcionando melhor desempenho, porém com um preço mais elevado por gigabyte.
