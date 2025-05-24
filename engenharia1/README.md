@@ -62,6 +62,8 @@ Ficar em casa pode ser mais tranquilo e barato. Sair é divertido, mas envolve g
 O HD é uma opção mais econômica quando se trata de custo por gigabyte, sendo indicado para quem precisa guardar muitos dados sem gastar muito. Já o SSD oferece velocidades muito superiores na leitura e gravação de arquivos, proporcionando melhor desempenho, porém com um preço mais elevado por gigabyte.
 
 # Exercicio 4
+![BertotiSlide](https://github.com/user-attachments/assets/63c2f3f8-e75a-4211-a91b-d95d42a9b901)
+Entregar um produto que, mesmo ainda não sendo exatamente o que o cliente deseja, seja funcional e resolva parte do problema, é muito melhor do que entregar apenas uma parte do produto final desejado. Isso porque, mesmo sendo um pedaço do produto, o cliente não conseguirá utilizá-lo de forma útil.
 
 # Exercicio 5
  Biblioteca de livros
